@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hava Durumu</string>
+    <string name="city">Sehir:</string>
+    <string name="comment">Aciklama:</string>
+    <string name="tempature">Sicaklik:</string>
+    <string name="weather">Hava Durumu:</string>
+    <string name="edit">Sehir giriniz.</string>
+</resources>
